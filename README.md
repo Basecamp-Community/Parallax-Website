@@ -3,7 +3,11 @@
 # Parallax Website 🌐
 
 
-[**View Source**](https://github.com/Basecamp-Community/Parallax-Website) | [**Try it**](https://basecamp-community.github.io/Parallax-Website/) | [**Watch Session Recording**](https://youtu.be/xB5m1oEe43k)
+[**View Source**](https://github.com/Basecamp-Community/Parallax-Website) | [**Watch Session Recording**](https://youtu.be/xB5m1oEe43k)
+
+### Browse Deployments 🚀
+- [Github Pages](https://basecamp-community.github.io/Parallax-Website/)
+- [Azure Static Web Apps](https://lemon-plant-07e934110.azurestaticapps.net/)
 
 
 ## About
